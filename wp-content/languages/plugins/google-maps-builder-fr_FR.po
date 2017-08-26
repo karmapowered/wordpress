@@ -1,0 +1,1737 @@
+# Translation of Development (trunk) in French (France)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-19 08:28:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: includes/libraries/metabox/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "﻿Configuration de Metabox requise pour l'obtention d'un paramètre ID"
+
+#: includes/libraries/metabox/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr "Cliquer pour inverser."
+
+#: includes/libraries/metabox/example-functions.php:113
+msgid "Test Text Medium"
+msgstr "Test Texte (Moyen)"
+
+#: includes/libraries/metabox/example-functions.php:121
+msgid "Website URL"
+msgstr "﻿URL site Internet"
+
+#: includes/libraries/metabox/example-functions.php:130
+msgid "Test Text Email"
+msgstr "﻿Test Texte Email"
+
+#: includes/libraries/metabox/example-functions.php:138
+msgid "Test Time"
+msgstr "Test Heure"
+
+#: includes/libraries/metabox/example-functions.php:145
+#: includes/libraries/metabox/example-functions.php:146
+msgid "Time zone"
+msgstr "﻿Fuseau horaire"
+
+#: includes/libraries/metabox/example-functions.php:152
+msgid "Test Date Picker"
+msgstr "Test Sélecteur de date"
+
+#: includes/libraries/metabox/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Test Sélecteur de date (timestamp UNIX)"
+
+#: includes/libraries/metabox/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Test Sélecteur Date et Heure combinées (timestamp UNIX)"
+
+#: includes/libraries/metabox/example-functions.php:184
+msgid "Test Money"
+msgstr "Test Devises"
+
+#: includes/libraries/metabox/example-functions.php:193
+msgid "Test Color Picker"
+msgstr "Test Sélecteur de couleurs"
+
+#: includes/libraries/metabox/example-functions.php:201
+msgid "Test Text Area"
+msgstr "Test Zone de texte"
+
+#: includes/libraries/metabox/example-functions.php:208
+msgid "Test Text Area Small"
+msgstr "Test Zone de texte (Petite)"
+
+#: includes/libraries/metabox/example-functions.php:215
+msgid "Test Text Area for Code"
+msgstr "﻿Test Zone de texte pour code"
+
+#: includes/libraries/metabox/example-functions.php:222
+msgid "Test Title Weeeee"
+msgstr "Test Titre Youhou"
+
+#: includes/libraries/metabox/example-functions.php:223
+msgid "This is a title description"
+msgstr "﻿Ceci est une description de titre"
+
+#: includes/libraries/metabox/example-functions.php:229
+msgid "Test Select"
+msgstr "Test Sélection"
+
+#: includes/libraries/metabox/example-functions.php:235
+#: includes/libraries/metabox/example-functions.php:248
+#: includes/libraries/metabox/example-functions.php:260
+msgid "Option One"
+msgstr "Option Une"
+
+#: includes/libraries/metabox/example-functions.php:236
+#: includes/libraries/metabox/example-functions.php:249
+#: includes/libraries/metabox/example-functions.php:261
+msgid "Option Two"
+msgstr "Option Deux"
+
+#: includes/libraries/metabox/example-functions.php:237
+#: includes/libraries/metabox/example-functions.php:250
+#: includes/libraries/metabox/example-functions.php:262
+msgid "Option Three"
+msgstr "Option Trois"
+
+#: includes/libraries/metabox/example-functions.php:242
+msgid "Test Radio inline"
+msgstr "Test ﻿Boutons radio <Inline>"
+
+#: includes/libraries/metabox/example-functions.php:255
+msgid "Test Radio"
+msgstr "Test Boutons radio"
+
+#: includes/libraries/metabox/example-functions.php:267
+msgid "Test Taxonomy Radio"
+msgstr "Test Catégories (bouton radio)"
+
+#: includes/libraries/metabox/example-functions.php:276
+msgid "Test Taxonomy Select"
+msgstr "Test Sélection de catégories"
+
+#: includes/libraries/metabox/example-functions.php:284
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Test Catégories (Cases à cocher - Multi)"
+
+#: includes/libraries/metabox/example-functions.php:293
+msgid "Test Checkbox"
+msgstr "Test Cases à cocher"
+
+#: includes/libraries/metabox/example-functions.php:300
+#: includes/libraries/metabox/tests/test-cmb-field.php:217
+msgid "Test Multi Checkbox"
+msgstr "Test Cases à cocher (multi)"
+
+#: includes/libraries/metabox/example-functions.php:306
+#: includes/libraries/metabox/tests/test-cmb-field.php:223
+msgid "Check One"
+msgstr "Case à cocher Une"
+
+#: includes/libraries/metabox/example-functions.php:307
+#: includes/libraries/metabox/tests/test-cmb-field.php:224
+msgid "Check Two"
+msgstr "Case à cocher Deux"
+
+#: includes/libraries/metabox/example-functions.php:308
+#: includes/libraries/metabox/tests/test-cmb-field.php:225
+msgid "Check Three"
+msgstr "Case à cocher Trois"
+
+#: includes/libraries/metabox/example-functions.php:314
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: includes/libraries/metabox/example-functions.php:322
+msgid "Test Image"
+msgstr "Test d'image"
+
+#: includes/libraries/metabox/example-functions.php:323
+msgid "Upload an image or enter a URL."
+msgstr "﻿Ajoutez une image ou insérez une URL."
+
+#: includes/libraries/metabox/example-functions.php:329
+msgid "Multiple Files"
+msgstr "﻿Sélection de fichiers multiples"
+
+#: includes/libraries/metabox/example-functions.php:330
+msgid "Upload or add multiple images/attachments."
+msgstr "﻿Télécharger ou ajouter plusieurs images / pièces jointes."
+
+#: includes/libraries/metabox/example-functions.php:337
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#: includes/libraries/metabox/example-functions.php:338
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+msgstr "﻿Entrez une URL youtube, twitter ou Instagram. Prise en charge des services listé ici : <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a> ."
+
+#: includes/libraries/metabox/example-functions.php:371
+msgid "About Page Metabox"
+msgstr "Metabox Page À propos"
+
+#: includes/libraries/metabox/example-functions.php:402
+msgid "Repeating Field Group"
+msgstr "Groupe de champ répétable"
+
+#: includes/libraries/metabox/example-functions.php:410
+msgid "Generates reusable form entries"
+msgstr "﻿Génère des entrées de formulaire réutilisables"
+
+#: includes/libraries/metabox/example-functions.php:412
+msgid "Entry {#}"
+msgstr "Entrée {#}"
+
+#: includes/libraries/metabox/example-functions.php:413
+msgid "Add Another Entry"
+msgstr "﻿Ajouter une nouvelle entrée"
+
+#: includes/libraries/metabox/example-functions.php:414
+msgid "Remove Entry"
+msgstr "﻿Supprimer cette entrée"
+
+#: includes/libraries/metabox/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr "Metabox Profil de l'utilisateur"
+
+#: includes/libraries/metabox/example-functions.php:474
+msgid "Extra Info"
+msgstr "Info supplémentaire"
+
+#: includes/libraries/metabox/example-functions.php:482
+msgid "Avatar"
+msgstr "﻿Avatar"
+
+#: includes/libraries/metabox/example-functions.php:489
+msgid "Facebook URL"
+msgstr "﻿URL Facebook"
+
+#: includes/libraries/metabox/example-functions.php:496
+msgid "Twitter URL"
+msgstr "﻿URL Twitter"
+
+#: includes/libraries/metabox/example-functions.php:503
+msgid "Google+ URL"
+msgstr "URL Google+"
+
+#: includes/libraries/metabox/example-functions.php:510
+msgid "Linkedin URL"
+msgstr "﻿URL LinkedIn"
+
+#: includes/libraries/metabox/example-functions.php:517
+msgid "User Field"
+msgstr "﻿Champ de l'utilisateur"
+
+#: includes/libraries/metabox/example-functions.php:540
+msgid "Theme Options Metabox"
+msgstr "Metabox d'Options du thème "
+
+#: includes/libraries/metabox/example-functions.php:555
+msgid "Site Background Color"
+msgstr "Couleur d'arrière-plan du site"
+
+#: includes/libraries/metabox/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr "﻿Veuillez réessayer"
+
+#: includes/libraries/metabox/includes/CMB2_Ajax.php:135
+#: includes/libraries/metabox/tests/test-cmb-types.php:786
+msgid "Remove Embed"
+msgstr "﻿Supprimer l'intégration"
+
+#: includes/libraries/metabox/includes/CMB2_Ajax.php:139
+#: includes/libraries/metabox/tests/test-cmb-types.php:787
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "﻿Aucun résultat oEmbed trouvé pour %s. Plus d'infos sur"
+
+#: includes/libraries/metabox/includes/CMB2_Field.php:891
+msgid "Add Group"
+msgstr "﻿Ajouter un groupe"
+
+#: includes/libraries/metabox/includes/CMB2_Field.php:892
+msgid "Remove Group"
+msgstr "﻿Supprimer le groupe"
+
+#: includes/libraries/metabox/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr "Ajouter un rang"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:137
+#: includes/libraries/metabox/includes/CMB2_Types.php:356
+#: includes/libraries/metabox/includes/CMB2_Types.php:1002
+#: includes/libraries/metabox/tests/test-cmb-types.php:155
+#: includes/libraries/metabox/tests/test-cmb-types.php:163
+#: includes/libraries/metabox/tests/test-cmb-types.php:735
+#: includes/libraries/metabox/tests/test-cmb-types.php:760
+msgid "Remove"
+msgstr "﻿Supprimer"
+
+#: includes/libraries/metabox/includes/CMB2_Types.php:734
+#: includes/libraries/metabox/includes/CMB2_Types.php:782
+msgid "No terms"
+msgstr "Aucune expression"
+
+#: includes/libraries/metabox/includes/CMB2_Types.php:907
+#: includes/libraries/metabox/tests/test-cmb-types.php:747
+#: includes/libraries/metabox/tests/test-cmb-types.php:762
+msgid "Add or Upload File"
+msgstr "﻿Ajouter ou mettre un fichier en ligne"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:136
+#: includes/libraries/metabox/includes/CMB2_Types.php:983
+msgid "Remove Image"
+msgstr "﻿Supprimer l'image"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:138
+#: includes/libraries/metabox/includes/CMB2_Types.php:997
+#: includes/libraries/metabox/tests/test-cmb-types.php:736
+#: includes/libraries/metabox/tests/test-cmb-types.php:761
+msgid "File:"
+msgstr "﻿Fichier :"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:139
+#: includes/libraries/metabox/includes/CMB2_Types.php:1000
+#: includes/libraries/metabox/tests/test-cmb-types.php:734
+#: includes/libraries/metabox/tests/test-cmb-types.php:759
+msgid "Download"
+msgstr "﻿Télécharger"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:86
+#: includes/libraries/metabox/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "﻿Effacer"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "﻿Sélectionnez une couleur"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "﻿Couleur actuelle"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "﻿Dimanche, Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Di, Lu, Ma, Me, Je, Ve, Sa"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Dim, Lun, Mar, Mer, Jeu, Ven, Sam"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:113
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "﻿Janvier, Février, Mars, Avril, Mai, Juin, Juillet, Août, Septembre, Octobre, Novembre, Décembre"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Jan, Fév, Mar, Avr, Mai, Jun, Jul, Aoû, Sep, Oct, Nov, Déc"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "﻿Suivant"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "﻿Précédent"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:118
+#: includes/libraries/metabox/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "﻿Terminé"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "﻿Utilisez ce fichier"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:140
+msgid "Select / Deselect All"
+msgstr "﻿Tout sélectionner / Désélectionner"
+
+#: includes/libraries/metabox/includes/helper-functions.php:249
+msgid "Save"
+msgstr "﻿Enregistrer"
+
+#: includes/libraries/metabox/example-functions.php:433
+msgid "Description"
+msgstr "Description"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Heure"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "Minute"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Heure"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Choisissez l'heure"
+
+#. Description of the plugin/theme
+msgid "Create stylish and powerful Google Maps quickly and easily."
+msgstr "Créer une carte Google Maps stylée et puissante rapidement et facilement."
+
+#. #-#-#-#-#  tmp-google-maps-builder.pot (Maps Builder 2.0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-google-maps-builder.pot (Maps Builder 2.0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://wordimpress.com/"
+msgstr "http://wordimpress.com/"
+
+#: includes/libraries/metabox/example-functions.php:446
+msgid "Image Caption"
+msgstr "Légende de l'image"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Maintenant"
+
+#. Plugin Name of the plugin/theme
+msgid "Maps Builder"
+msgstr "Maps Builder"
+
+#. Author of the plugin/theme
+msgid "WordImpress"
+msgstr "WordImpress"
+
+#: includes/libraries/metabox/includes/CMB2_Types.php:847
+#: includes/libraries/metabox/tests/test-cmb-types.php:711
+#: includes/libraries/metabox/tests/test-cmb-types.php:737
+msgid "Add or Upload Files"
+msgstr "Ajouter ou envoyer des fichiers"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "dd/mm/yy"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:129
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: includes/libraries/metabox/example-functions.php:434
+msgid "Write a short description for this entry"
+msgstr "Écrivez une courte description pour cette entrée"
+
+#: includes/libraries/metabox/example-functions.php:426
+msgid "Entry Title"
+msgstr "Titre de l'entrée"
+
+#: includes/libraries/metabox/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Second"
+
+#: includes/libraries/metabox/example-functions.php:440
+msgid "Entry Image"
+msgstr "Image de l&rsquo;entrée"
+
+#: includes/libraries/metabox/example-functions.php:82
+#: includes/libraries/metabox/tests/test-cmb-field.php:206
+msgid "Test Metabox"
+msgstr "Test Metabox"
+
+#: includes/libraries/metabox/example-functions.php:93
+#: includes/libraries/metabox/example-functions.php:380
+msgid "Test Text"
+msgstr "Test Texte"
+
+#: includes/libraries/metabox/example-functions.php:94
+#: includes/libraries/metabox/example-functions.php:106
+#: includes/libraries/metabox/example-functions.php:114
+#: includes/libraries/metabox/example-functions.php:122
+#: includes/libraries/metabox/example-functions.php:131
+#: includes/libraries/metabox/example-functions.php:139
+#: includes/libraries/metabox/example-functions.php:153
+#: includes/libraries/metabox/example-functions.php:160
+#: includes/libraries/metabox/example-functions.php:168
+#: includes/libraries/metabox/example-functions.php:185
+#: includes/libraries/metabox/example-functions.php:194
+#: includes/libraries/metabox/example-functions.php:202
+#: includes/libraries/metabox/example-functions.php:209
+#: includes/libraries/metabox/example-functions.php:216
+#: includes/libraries/metabox/example-functions.php:230
+#: includes/libraries/metabox/example-functions.php:243
+#: includes/libraries/metabox/example-functions.php:256
+#: includes/libraries/metabox/example-functions.php:268
+#: includes/libraries/metabox/example-functions.php:277
+#: includes/libraries/metabox/example-functions.php:285
+#: includes/libraries/metabox/example-functions.php:294
+#: includes/libraries/metabox/example-functions.php:301
+#: includes/libraries/metabox/example-functions.php:315
+#: includes/libraries/metabox/example-functions.php:381
+#: includes/libraries/metabox/example-functions.php:475
+#: includes/libraries/metabox/example-functions.php:483
+#: includes/libraries/metabox/example-functions.php:490
+#: includes/libraries/metabox/example-functions.php:497
+#: includes/libraries/metabox/example-functions.php:504
+#: includes/libraries/metabox/example-functions.php:511
+#: includes/libraries/metabox/example-functions.php:518
+#: includes/libraries/metabox/example-functions.php:556
+#: includes/libraries/metabox/tests/test-cmb-field.php:218
+msgid "field description (optional)"
+msgstr "﻿description du champ (facultatif)"
+
+#: includes/libraries/metabox/example-functions.php:105
+msgid "Test Text Small"
+msgstr "Test Texte (Petit)"
+
+#: includes/admin/class-gmb-admin.php:428
+#: includes/admin/class-gmb-admin.php:508
+#: includes/admin/class-gmb-admin.php:521
+#: includes/admin/class-gmb-admin.php:532
+#: includes/admin/class-gmb-admin.php:543
+#: includes/admin/class-gmb-admin.php:555
+#: includes/admin/class-gmb-admin.php:566
+#: includes/libraries/metabox/includes/CMB2_Field.php:914
+#: includes/libraries/metabox/includes/CMB2_Field.php:918
+#: includes/libraries/metabox/tests/test-cmb-field.php:178
+msgid "None"
+msgstr "Aucun"
+
+#: includes/admin/class-gmb-admin.php:511 includes/admin/views/markers.php:42
+#: includes/libraries/metabox/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/admin/class-gmb-admin.php:522
+#: includes/admin/class-gmb-admin.php:533
+#: includes/admin/class-gmb-admin.php:556
+#: includes/admin/class-gmb-admin.php:567
+#: includes/admin/class-gmb-admin.php:578
+msgid "Standard"
+msgstr "Standard"
+
+#: includes/admin/class-gmb-settings.php:68
+#: includes/admin/class-gmb-settings.php:282
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/admin/class-gmb-admin.php:577
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: includes/admin/class-gmb-settings.php:296
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/class-gmb-admin.php:657
+msgid "Update"
+msgstr "Mise à jour"
+
+#: includes/admin/views/tab-general-settings.php:18
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: includes/admin/class-gmb-admin.php:606
+msgid "Width"
+msgstr "Largeur"
+
+#: includes/admin/class-gmb-admin.php:615
+msgid "Height"
+msgstr "Hauteur"
+
+#: includes/admin/class-gmb-admin.php:700
+msgid "Go Pro!"
+msgstr "Passer à la version Pro&nbsp;!"
+
+#: includes/admin/views/settings-page.php:66
+msgid "General Options"
+msgstr "Options globales"
+
+#: includes/class-gmb-widget.php:109
+msgid "Widget Title"
+msgstr "Titre du Widget"
+
+#: includes/admin/upgrades/upgrades.php:55
+msgid "Step %d of approximately %d running"
+msgstr "Étape %d sur %d en cours d'exécution"
+
+#: includes/admin/class-gmb-shortcode-generator.php:232
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/admin/class-gmb-admin.php:764
+msgid "Shortcode"
+msgstr "Code court"
+
+#: includes/admin/class-gmb-admin.php:510
+msgid "Large"
+msgstr "Grand"
+
+#: includes/admin/class-gmb-shortcode-generator.php:236
+msgid "Go Pro"
+msgstr "Passez en Pro"
+
+#: includes/admin/upgrades/upgrade-functions.php:87
+msgid "Error"
+msgstr "Erreur"
+
+#: includes/admin/class-gmb-settings.php:284
+#: includes/admin/views/settings-page.php:50 includes/class-gmb-widget.php:139
+msgid "Upgrade to Pro"
+msgstr "Mettre à jour vers la version professionnelle"
+
+#: includes/class-gmb-widget.php:129
+msgid "Please select..."
+msgstr "Veuillez sélectionner&hellip;"
+
+#: includes/admin/class-gmb-admin.php:735
+msgid "Enter a Location"
+msgstr "Entrez un lieu"
+
+#: includes/admin/class-gmb-admin.php:550
+msgid "Draggable Map"
+msgstr "Carte déplaçable"
+
+#: includes/admin/class-gmb-admin.php:373
+msgid "Veterinary Care"
+msgstr "Vétérinaire"
+
+#: includes/admin/class-gmb-admin.php:342
+msgid "Movie Theater"
+msgstr "Cinéma"
+
+#: includes/admin/class-gmb-admin.php:356
+msgid "Real Estate Agency"
+msgstr "Agence immobilière"
+
+#: includes/class-gmb-activate.php:336
+msgid "Add New Map"
+msgstr "Ajouter une nouvelle carte"
+
+#: includes/admin/views/social-media.php:36
+msgid "Visit the Developers site of Google Maps Builder"
+msgstr "Allez sur le site des développeur de Google Maps Builder"
+
+#: includes/admin/class-gmb-shortcode-generator.php:340
+msgctxt "no dropdown items"
+msgid "None"
+msgstr "Aucun"
+
+#: includes/admin/class-gmb-shortcode-generator.php:286
+msgid "No Maps Found"
+msgstr "Aucune carte trouvée"
+
+#: includes/class-gmb-activate.php:343
+msgid "No Maps found."
+msgstr "Aucune carte trouvée"
+
+#: includes/class-gmb-activate.php:344
+msgid "No Maps found in Trash."
+msgstr "Aucune carte trouvée dans la corbeille."
+
+#: includes/admin/class-gmb-admin.php:360
+msgid "School"
+msgstr "École"
+
+#: includes/admin/views/settings-page.php:29
+#: includes/class-gmb-activate.php:177
+msgid "Welcome to Maps Builder"
+msgstr "Bienvenue sur Maps Builder"
+
+#: includes/admin/views/social-media.php:47
+msgid "Hide the Google Maps Builder Welcome Message"
+msgstr "Cacher le message de Bienvenue de Maps Builder"
+
+#: includes/class-gmb-activate.php:342
+msgid "Parent Maps:"
+msgstr "Cartes parentes :"
+
+#: includes/admin/class-gmb-shortcode-generator.php:215
+msgid "Choose a Map"
+msgstr "Choisir une carte"
+
+#: includes/class-gmb-activate.php:333
+msgctxt "admin menu"
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/class-gmb-activate.php:334
+msgctxt "add new on admin bar"
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/admin/views/settings-page.php:67
+#: includes/admin/views/tab-system-info.php:18
+msgid "System Info"
+msgstr "Infos système"
+
+#: includes/admin/upgrades/upgrades.php:51
+msgid "The upgrade process has started, please be patient. This could take several minutes. You will be automatically redirected when the upgrade is finished."
+msgstr "Le processus de mise à jour a commencé, soyez patient. Cela peux prendre quelques minutes. Vous serez redirigé automatiquement quand la mise à jour sera terminée."
+
+#: includes/admin/class-gmb-admin.php:349
+msgid "Pet Store"
+msgstr "Animalerie"
+
+#: includes/admin/class-gmb-admin.php:355
+msgid "Post Office"
+msgstr "Bureau de poste"
+
+#: includes/class-gmb-activate.php:332
+msgctxt "post type singular name"
+msgid "Map"
+msgstr "Carte"
+
+#: includes/class-gmb-scripts.php:371
+msgid "Click on the Map"
+msgstr "Cliquez sur la carte"
+
+#: includes/class-gmb-activate.php:331
+msgctxt "post type general name"
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/admin/class-gmb-admin.php:416
+msgid "Hybrid"
+msgstr "Hybride"
+
+#: includes/admin/upgrades/upgrades.php:69
+msgid "The upgrade process has started, please do not close your browser or refresh. This could take several minutes. You will be automatically redirected when the upgrade has finished."
+msgstr "Le processus de mise à jour a commencé, ne fermez pas ou n'actualisez pas votre navigateur s'il vous plaît. Cela peux prendre quelques minutes. Vous serez redirigé automatiquement quand la mise à jour sera terminée."
+
+#: includes/admin/class-gmb-admin.php:352
+msgid "Place of Worship"
+msgstr "Lieu de culte"
+
+#: includes/admin/class-gmb-admin.php:361
+msgid "Shoe Store"
+msgstr "Magasin de chaussures"
+
+#: includes/admin/views/settings-page.php:48
+msgid "Maps Builder - Free Edition"
+msgstr "Maps Builder - Édition gratuite"
+
+#: includes/admin/class-gmb-settings.php:297
+msgid "Thank you for using Maps Builder"
+msgstr "Merci d'utiliser Maps Builder"
+
+#: includes/admin/views/settings-page.php:31
+msgid "Thanks for using Maps Builder"
+msgstr "Merci d'utiliser Maps Builder"
+
+#: includes/class-gmb-scripts.php:366 includes/class-gmb-scripts.php:367
+msgid "Update Map"
+msgstr "Mettre à jour la carte"
+
+#: includes/class-gmb-activate.php:338
+msgid "Edit Map"
+msgstr "Modifier la carte"
+
+#: includes/admin/class-gmb-settings.php:295
+msgid "Rate Google Maps Builder on WordPress.org"
+msgstr "Noter Google Maps Builder sur Wordpress.org"
+
+#: includes/admin/class-gmb-settings.php:295
+msgid "Rate Plugin"
+msgstr "Noter l'extension"
+
+#: includes/class-gmb-activate.php:337
+msgid "New Map"
+msgstr "Nouvelle carte"
+
+#: includes/admin/views/settings-page.php:65
+msgid "Map Options"
+msgstr "Options de carte"
+
+#: includes/admin/class-gmb-admin.php:347
+msgid "Park"
+msgstr "Parc"
+
+#: includes/admin/class-gmb-admin.php:348
+msgid "Parking"
+msgstr "Parking"
+
+#: includes/admin/views/markers.php:219
+msgid "Customize the icon color?"
+msgstr "Personnalisez la couleur de l'icône ?"
+
+#: includes/admin/class-gmb-admin.php:350
+msgid "Pharmacy"
+msgstr "Pharmacie"
+
+#: includes/admin/class-gmb-admin.php:353
+msgid "Plumber"
+msgstr "Plombier"
+
+#: includes/admin/class-gmb-admin.php:354
+msgid "Police"
+msgstr "Police"
+
+#: includes/class-gmb-activate.php:213
+msgid "Introducing the Map Builder"
+msgstr "Présentation de Map Builder"
+
+#: includes/class-gmb-scripts.php:366
+msgid "Publish Map"
+msgstr "Publier la carte"
+
+#: includes/class-gmb-activate.php:341
+msgid "Search Maps"
+msgstr "Rechercher des cartes"
+
+#: includes/admin/class-gmb-admin.php:357
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: includes/admin/class-gmb-admin.php:415
+msgid "Satellite"
+msgstr "Satellite"
+
+#: includes/admin/class-gmb-shortcode-generator.php:266
+#: includes/admin/class-gmb-shortcode-generator.php:281
+msgid "Select a Map"
+msgstr "Sélectionner une carte"
+
+#: includes/class-gmb-widget.php:126
+msgid "Select a map that you would like to embed in this widget area."
+msgstr "Sélectionnez une carte que vous voudriez intégrer dans cette zone de widget"
+
+#: includes/admin/class-gmb-admin.php:417
+msgid "Terrain"
+msgstr "Terrain"
+
+#: includes/class-gmb-activate.php:340
+msgid "All Maps"
+msgstr "Toutes les cartes"
+
+#: includes/class-gmb-activate.php:339
+msgid "View Map"
+msgstr "Voir la carte"
+
+#: includes/class-gmb-widget.php:59
+msgid "Maps Builder Widget"
+msgstr "Widget Map Builder"
+
+#: includes/class-gmb-scripts.php:369
+msgid "Hmm, it looks like there are multiple places in this area. Please confirm which place you would like this marker to display:"
+msgstr "Hmm, il semblerait qu'il y a plusieurs lieux dans cette zone. Merci de confirmer quel lieu vous voudriez voir s'afficher :"
+
+#: includes/admin/views/markers.php:22
+msgid "Step 1: Select a Marker"
+msgstr "Étape 1 : Sélectionnez un marqueur"
+
+#: includes/admin/views/markers.php:56 includes/admin/views/markers.php:228
+msgid "Step 2: Select a Marker Icon"
+msgstr "Étape 2 : Sélectionnez une icône de marqueur"
+
+#: includes/class-gmb-widget.php:125
+msgid "Select a Map:"
+msgstr "Choisissez une carte : "
+
+#: includes/class-gmb-scripts.php:372
+msgid "Edit Marker"
+msgstr "Modifier le marqueur"
+
+#: includes/admin/views/markers.php:53
+msgid "Customize the marker color?"
+msgstr "Personnaliser la couleur du marqueur ?"
+
+#: includes/admin/upgrades/upgrades.php:46
+msgid "Maps Builder - Upgrade"
+msgstr "Maps Builder - Mise à niveau"
+
+#: includes/admin/upgrades/upgrade-functions.php:70
+msgid "Maps Builder Upgrades"
+msgstr "Mise à niveau de Maps Builder"
+
+#: includes/admin/class-gmb-settings.php:284
+msgid "Upgrade to Maps Builder Pro"
+msgstr "Mise à niveau vers Maps Builder Pro"
+
+#: includes/admin/views/markers.php:16
+msgid "Customize Map Marker"
+msgstr "Personnalisez les marqueurs de la carte"
+
+#: includes/admin/class-gmb-admin.php:371
+msgid "Travel Agency"
+msgstr "Agence de voyage"
+
+#: includes/admin/class-gmb-admin.php:545
+msgid "Horizontal Bar"
+msgstr "Barre horizontale"
+
+#: includes/admin/class-gmb-admin.php:623
+msgid "Configure the default map width and height."
+msgstr "Configurer la hauteur et largeur par défaut de la carte."
+
+#: includes/admin/class-gmb-admin.php:493
+msgid "Map Controls"
+msgstr "Contrôles de carte"
+
+#: includes/admin/class-gmb-admin.php:501
+msgid "Zoom Control"
+msgstr "Contrôle du zoom"
+
+#: includes/admin/class-gmb-admin.php:765
+msgid "Creation Date"
+msgstr "Date de création"
+
+#: includes/admin/class-gmb-admin.php:561
+msgid "Double Click to Zoom"
+msgstr "Double cliquez pour zoomer"
+
+#: includes/admin/class-gmb-admin.php:370
+msgid "Train Station"
+msgstr "Gare"
+
+#: includes/admin/class-gmb-admin.php:366
+msgid "Store"
+msgstr "Magasin"
+
+#: includes/admin/class-gmb-admin.php:384
+msgid "Display Options"
+msgstr "Options d'affichage"
+
+#: includes/admin/class-gmb-settings.php:145
+msgid "Opening Map Builder"
+msgstr "Ouvrir Map Builder"
+
+#: includes/admin/class-gmb-settings.php:128
+msgid "Menu Position"
+msgstr "Position du menu"
+
+#: includes/admin/class-gmb-admin.php:367
+msgid "Subway Station"
+msgstr "Station de métro"
+
+#: includes/admin/class-gmb-admin.php:368
+msgid "Synagogue"
+msgstr "Synagogue"
+
+#: includes/admin/class-gmb-admin.php:392
+#: includes/admin/class-gmb-settings.php:188
+msgid "Map Size"
+msgstr "Taille de la carte"
+
+#: includes/admin/class-gmb-admin.php:502
+msgid "Test test 123"
+msgstr "Test test 123"
+
+#: includes/admin/class-gmb-admin.php:763
+msgid "Google Map Title"
+msgstr "Titre de la carte Google"
+
+#: includes/admin/class-gmb-admin.php:409
+msgid "Map Type"
+msgstr "Type de carte"
+
+#: includes/admin/class-gmb-admin.php:372
+msgid "University"
+msgstr "Université"
+
+#: includes/admin/class-gmb-admin.php:414
+msgid "Road Map"
+msgstr "Vue \"Carte routière\""
+
+#: includes/admin/class-gmb-admin.php:516
+msgid "Street View"
+msgstr "Vue \"Rue\""
+
+#: includes/admin/class-gmb-admin.php:374
+msgid "Zoo"
+msgstr "Zoo"
+
+#: includes/admin/class-gmb-admin.php:705 includes/class-gmb-scripts.php:370
+msgid "Drop a Marker"
+msgstr "Posez un marqueur"
+
+#: includes/admin/class-gmb-admin.php:538
+msgid "Map Type Control"
+msgstr "Type de contrôle de la carte"
+
+#: includes/admin/views/markers.php:736
+msgid "Marker is ready to be set."
+msgstr "Le marqueur est prêt à être utilisé."
+
+#: includes/admin/views/markers.php:36
+msgid "Square Pin"
+msgstr "Repère carré"
+
+#: includes/admin/views/markers.php:29
+msgid "Map Pin"
+msgstr "Repère"
+
+#: includes/admin/class-gmb-shortcode-generator.php:221
+msgid "<strong>Insert Shortcode</strong>: Select your desired map from the dropdown above then click create shortcode below."
+msgstr "<strong>Insérer le code court</strong> : Sélectionnez la carte désirée dans la liste au-dessus et cliquez sur Créer le code court en dessous."
+
+#: includes/admin/class-gmb-admin.php:704
+msgid "Add Location"
+msgstr "Ajouter un lieu"
+
+#: includes/admin/class-gmb-admin.php:458
+msgid "Adjust the map zoom (0-21)"
+msgstr "Ajustez le zoom de la carte (0-21)"
+
+#: includes/admin/class-gmb-admin.php:700
+msgid "Want more?"
+msgstr "Besoin de plus ?"
+
+#: includes/admin/class-gmb-settings.php:182
+msgid "Google Maps API Key"
+msgstr "Clef API Google Maps"
+
+#: includes/admin/class-gmb-admin.php:724
+msgid "Give your Map a descriptive title"
+msgstr "Donner à votre carte un titre descriptif"
+
+#: includes/class-gmb-activate.php:335
+msgctxt "map"
+msgid "Add New"
+msgstr "Ajouter"
+
+#: includes/admin/class-gmb-settings.php:247
+msgid "For quick lat/lng lookup use <a href=\"%s\" class=\"new-window\"  target=\"_blank\">this service</a>"
+msgstr "Pour une utilisation rapide de la latitude/longitude, utilisez <a href=\"%s\" class=\"new-window\"  target=\"_blank\">ce service</a>"
+
+#: includes/admin/class-gmb-settings.php:244
+msgid "Longitude"
+msgstr "Longitude"
+
+#: includes/admin/class-gmb-settings.php:243
+msgid "Latitude"
+msgstr "Latitude"
+
+#: includes/admin/class-gmb-settings.php:233
+msgid "Geolocate Position"
+msgstr "Position géolocalisée"
+
+#: includes/admin/class-gmb-settings.php:183
+msgid "The Google Maps JavaScript API v3 does not require an API key to function correctly. However, Google strongly encourages you to load the Maps API using an APIs Console key which allows you to monitor your Maps API usage. %1$sLearn how to obtain an API key%2$s."
+msgstr "L&rsquo;API Javascript v3 de Google Maps ne requiert pas de clé API pour fonctionner correctement. Toutefois, Google suggère fortement de rentrer votre clé API ce qui vous permettra de surveiller l&rsquo;usage de vos cartes. %1$sApprendre comment obtenir une clé API%2$s."
+
+#: includes/admin/class-gmb-settings.php:147
+msgid "Do you want the Map Builder customizer to open by default when editing maps?"
+msgstr "Voulez-vous que le personnaliseur de Map Builder s&rsquo;ouvre par défaut lorsque vous modifiez des cartes&nbsp;?"
+
+#: includes/admin/class-gmb-settings.php:137
+msgid "Controls the post type archive page. See %1s$Resave (flush) permalinks%2s$ after customizing."
+msgstr "Contrôle le type d&rsquo;article des pages d&rsquo;archive. %1s$afraichissez les permaliens%2s$ après la personnalisation."
+
+#: includes/admin/class-gmb-settings.php:135
+msgid "Has Archive"
+msgstr "Archivée"
+
+#: includes/admin/class-gmb-settings.php:129
+msgid "Set the menu position for Google Maps Builder. See the %1$smenu_position arg%2$s."
+msgstr "Réglez la position du menu de Google Maps Builder. Voir %1$sl&#130;argument menu_position %2$s."
+
+#: includes/admin/class-gmb-settings.php:121
+msgid "Post Type Slug"
+msgstr "Identifiant du type d&rsquo;article"
+
+#: includes/admin/class-gmb-admin.php:736
+msgid "Type your point of interest below and the map will be re-centered over that location"
+msgstr "Saisissez votre point d&rsquo;intérêt ci-dessous et la carte sera recentrée sur ce lieu."
+
+#: includes/admin/class-gmb-admin.php:725
+msgid "Enter map title"
+msgstr "Saisissez le titre de la carte"
+
+#: includes/admin/class-gmb-admin.php:723
+msgid "Map Title"
+msgstr "Titre de la carte"
+
+#: includes/admin/class-gmb-admin.php:712
+msgid "Lng:"
+msgstr "Long&nbsp;:"
+
+#: includes/admin/class-gmb-admin.php:711
+msgid "Lat:"
+msgstr "Lat&nbsp;:"
+
+#: includes/admin/class-gmb-admin.php:707
+msgid "Edit Map Title"
+msgstr "Modifier le titre de la carte"
+
+#: includes/admin/class-gmb-admin.php:697
+msgid "Loading Places"
+msgstr "Chargement des lieux en cours"
+
+#: includes/admin/class-gmb-admin.php:681
+msgid "Enter the name of a place or an address above to create a map marker or %1$sDrop a Marker%2$s"
+msgstr "Saisissez le nom du lieu ou une adresse pour créer un marqueur ou %1$ssupprimer un marqueur%2$s"
+
+#: includes/admin/class-gmb-admin.php:654
+msgid "Longitude:"
+msgstr "Longitude&nbsp;:"
+
+#: includes/admin/class-gmb-admin.php:651
+msgid "Latitude:"
+msgstr "Latitude&nbsp;:"
+
+#: includes/admin/class-gmb-admin.php:572
+msgid "Mouse Wheel to Zoom"
+msgstr "Roulette de la souris pour zoomer"
+
+#: includes/admin/class-gmb-admin.php:544
+msgid "Dropdown Menu"
+msgstr "Menu déroulant"
+
+#: includes/admin/class-gmb-admin.php:527
+msgid "Pan Control"
+msgstr "Contrôle panoramique"
+
+#: includes/admin/class-gmb-admin.php:509
+msgid "Small"
+msgstr "Petit"
+
+#: includes/admin/class-gmb-admin.php:710
+msgid "Set Lat/Lng"
+msgstr "Etablir latitute et longitude"
+
+#: includes/admin/class-gmb-admin.php:706
+msgid "Goto Location"
+msgstr "Se rendre à un lieu"
+
+#: includes/admin/class-gmb-admin.php:657
+msgid "Lat/lng changed"
+msgstr "Lat/lng modifiées"
+
+#: includes/admin/class-gmb-admin.php:401
+#: includes/admin/class-gmb-settings.php:199
+msgid "Map Location"
+msgstr "Emplacement de la carte"
+
+#: includes/admin/class-gmb-admin.php:369
+msgid "Taxi Stand"
+msgstr "Taxi"
+
+#: includes/admin/class-gmb-admin.php:365
+msgid "Storage"
+msgstr "Stockage"
+
+#: includes/admin/class-gmb-admin.php:359
+msgid "RV Park"
+msgstr "Aire d'accueil camping-car"
+
+#: includes/admin/class-gmb-admin.php:362
+msgid "Shopping Mall"
+msgstr "Centre commercial"
+
+#: includes/admin/class-gmb-admin.php:364
+msgid "Stadium"
+msgstr "Stade"
+
+#: includes/admin/class-gmb-admin.php:346
+msgid "Painter"
+msgstr "Peintre"
+
+#: includes/admin/class-gmb-admin.php:351
+msgid "Physiotherapist"
+msgstr "Psychologue"
+
+#: includes/admin/class-gmb-admin.php:344
+msgid "Museum"
+msgstr "Musée"
+
+#: includes/admin/class-gmb-admin.php:345
+msgid "Night Club"
+msgstr "Discothèque"
+
+#: includes/admin/class-gmb-admin.php:343
+msgid "Moving Company"
+msgstr "Entreprise de déménagement"
+
+#: includes/admin/class-gmb-settings.php:122
+msgid "Customize the default slug for the Maps Builder post type. %1$sResave (flush) permalinks%2$s after customizing."
+msgstr "Personnalisez l&rsquo;identifiant par défaut du type d&rsquo;article Maps Builder. %1$sRafraichissez les permaliens%2$s après la personnalisation."
+
+#: includes/admin/class-gmb-admin.php:363
+msgid "Spa"
+msgstr "Spa"
+
+#: includes/admin/class-gmb-shortcode-generator.php:339
+msgctxt "all dropdown items"
+msgid "All"
+msgstr "Tous"
+
+#: includes/admin/shortcode-generator-i18n.php:5
+msgid "Maps Builder Shortcode Generator"
+msgstr "Générateur de code court de Maps Builder"
+
+#: includes/admin/system-info.php:35
+msgid "Download System Info File"
+msgstr "Télécharger le fichier d&rsquo;infos système"
+
+#: includes/class-gmb-scripts.php:368
+msgid "Place selections have changed."
+msgstr "La sélection de lieu a changée."
+
+#: includes/class-gmb-scripts.php:373
+msgid "Delete Marker"
+msgstr "Supprimer le lieu d&rsquo;intérêt"
+
+#: includes/admin/class-gmb-admin.php:358
+msgid "Roofing Contractor"
+msgstr "Couvreur"
+
+#: includes/admin/class-gmb-admin.php:429
+msgid "Aqua"
+msgstr "Aqua"
+
+#: includes/admin/class-gmb-admin.php:430
+msgid "A Dark World"
+msgstr "A Dark World"
+
+#: includes/admin/class-gmb-admin.php:431
+msgid "Bluish"
+msgstr "Bluish"
+
+#: includes/admin/class-gmb-admin.php:432
+msgid "Cool Grey"
+msgstr "Cool Grey"
+
+#: includes/admin/class-gmb-admin.php:433
+msgid "Clean Cut"
+msgstr "Clean Cut"
+
+#: includes/admin/class-gmb-admin.php:434
+msgid "Flat Green"
+msgstr "Flat Green"
+
+#: includes/admin/class-gmb-admin.php:435
+msgid "MapBox"
+msgstr "MapBox"
+
+#: includes/admin/class-gmb-admin.php:436
+msgid "Muted Blue"
+msgstr "Muted Blue"
+
+#: includes/admin/class-gmb-admin.php:437
+msgid "Old Timey"
+msgstr "Old Timey"
+
+#: includes/admin/class-gmb-admin.php:438
+msgid "Pale Dawn"
+msgstr "Pale Dawn"
+
+#: includes/admin/class-gmb-admin.php:439
+msgid "Paper"
+msgstr "Paper"
+
+#: includes/admin/class-gmb-admin.php:440
+msgid "Lunar Landscape"
+msgstr "Sol lunaire"
+
+#: includes/admin/class-gmb-admin.php:441
+msgid "Shade of Green"
+msgstr "Shade of Green"
+
+#: includes/admin/class-gmb-admin.php:443
+msgid "Subtle Grayscale"
+msgstr "Subtil dégradé de gris"
+
+#: includes/admin/class-gmb-admin.php:444
+msgid "The Endless Atlas"
+msgstr "The Endless Atlas"
+
+#: includes/admin/class-gmb-admin.php:448
+msgid "Map Theme JSON"
+msgstr "Thème de carte JSON"
+
+#: includes/class-gmb-widget.php:62
+msgid "Display a Google Map in your theme's widget powered sidebar."
+msgstr "Affiche une carte Google dans un widget de la colonne latérale de votre thème."
+
+#: includes/class-gmb-scripts.php:232
+msgid "<a href=\"%1$s\" rel=\"nofollow\" class=\"button\" style=\"display:inline-block; margin: 0 0 10px;\">Hide Warning</a>"
+msgstr "<a href=\"%1$s\" rel=\"nofollow\" class=\"button\" style=\"display:inline-block; margin: 0 0 10px;\">Cacher les erreurs</a>"
+
+#: includes/admin/class-gmb-shortcode-generator.php:231
+msgid "Create Shortcode"
+msgstr "Créer le code court"
+
+#: includes/admin/views/markers.php:18
+msgid "Customize your Google Maps markers by selecting a marker graphic and icon. Integration made possible from the excellent Maps Icon library."
+msgstr "Personnalisez les marqueurs de vos Google Maps en sélectionnant un marqueur graphique et une icône. Tout cela grâce à l&rsquo;excellente bibliothèque Maps Icon."
+
+#: includes/admin/views/settings-page.php:31
+msgid "To get started, read over the %1$sdocumentation%2$s, take a gander at the settings, and build yourself some maps! If you enjoy this plugin please consider telling a friend, rating it %3$s5-stars%2$s, or purchasing the %4$sPro%2$s edition."
+msgstr "Pour bien démarrer, lisez la %1$sdocumentation%2$s, jetez un œil aux réglages, et créez quelques cartes&nbsp;! Si vous appréciez cette extension, merci d&rsquo;en parler à vos amis, de lui donner une note de %3$s5 étoiles%2$s, ou d&rsquo;acheter la version %4$sPro%2$s."
+
+#: includes/admin/views/social-media.php:47
+msgid "Hide Welcome"
+msgstr "Cacher le Bienvenue"
+
+#: includes/admin/views/tab-general-settings.php:20
+msgid "Customize how Google Maps Builder functions within WordPress."
+msgstr "Personnalisez le mode de fonctionnement de Google Maps Builder dans WordPress."
+
+#: includes/admin/views/tab-map-options.php:19
+msgid "Default Map Settings"
+msgstr "Réglages de la carte par défaut"
+
+#: includes/admin/views/tab-map-options.php:20
+msgid "The following settings allow you to customize how Google Maps Builder functions within WordPress."
+msgstr "Les réglages suivants vous permettent de personnaliser la façon dont Google Maps Builder fonctionne dans WordPress."
+
+#: includes/admin/views/tab-system-info.php:20
+msgid "The following displays useful information about your website that may be requested from you for support reasons."
+msgstr "Les informations suivantes sont des éléments de votre site utiles à connaître, qui peuvent vous être demandés lors d'une demande de support."
+
+#: includes/class-gmb-activate.php:178
+msgid "Thank you for activating Maps Builder for WordPress. To stay up to date on the latest plugin updates, enhancements, and news please sign up for our newsletter."
+msgstr "Merci d&rsquo;utiliser Maps Builder pour WordPress. Afin de rester au courant des dernières mises à jour de l&rsquo;extension, améliorations et nouvelles la concernant, merci de vous inscrire à notre newsletter."
+
+#: includes/class-gmb-activate.php:214
+msgid "%1$sWe have upgraded your map building experience!%2$s Click here to experience the new interface. All controls are within your reach and the map always stays in view. If you like it, you can enable the view by default within the %3$splugin settings%4$s. We hope you enjoy it!"
+msgstr "%1$sNous avons mis à niveau la construction de carte !%2$s Cliquez ici pour expérimenter la nouvelle interface. Tous les contrôles sont à portée de main et la carte reste toujours en vue. Si vous aimez cette interface, vous pouvez activer cet affichage par défaut dans %3$sles réglages de l&rsquo;extension%4$s. Nous espérons que vous l'apprécierez."
+
+#: includes/admin/class-gmb-settings.php:67
+msgid "Google Maps Builder Settings"
+msgstr "Réglages Google Maps Builder"
+
+#: includes/admin/class-gmb-settings.php:282
+msgid "Visit the Google Maps Builder plugin settings page"
+msgstr "Allez à la page de réglages de l'extension Google Maps Builder"
+
+#: includes/admin/class-gmb-settings.php:296
+msgid "Get plugin support via the WordPress community"
+msgstr "Obtenez de l'aide pour l'extension via la communauté WordPress"
+
+#: includes/admin/class-gmb-settings.php:321
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: includes/admin/upgrades/upgrade-functions.php:87
+msgid "You do not have permission to do plugin upgrades"
+msgstr "Vous n'avez pas la permission de mettre à niveau l'extension"
+
+#: includes/admin/class-gmb-admin.php:423
+msgid "Set optional preconfigured %1$sSnazzy Maps%2$s styles. %3$sUpgrade to Pro%2$s for more styles and to set your own."
+msgstr "Choisissez des styles prédéfinis optionnels %1$sSanzzy Maps%2$s. %3$sMettez à niveau vers la version Pro%2$s pour plus de styles et pour utiliser les vôtres."
+
+#: includes/admin/class-gmb-settings.php:251
+msgid "When creating a new map the plugin will use your current longitude and latitude for the base location. If you see a blank space instead of the map, this is most likely because you have denied permission for location sharing. You may also specify a default longitude and latitude by turning off this option."
+msgstr "Lorsque vous créez un nouvelle carte, l'extension utilise votre longitude et latitude actuelle. Si vous voyez un espace blanc à la place de la carte, c'est probablement que vous n'avez pas autorisé la géolocalisation. Vous pouvez spécifier un longitude et latitude par défaut en désactivant cette option."
+
+#: includes/admin/class-gmb-shortcode-generator.php:225
+msgid "<strong>Edit Active Shortcode:</strong> Customize the map for this shortcode by modifying the map selection above."
+msgstr "<strong>Modifiez le code court actif&nbsp;:</strong> Personnalisez la carte pour ce code court en modifiant la sélection de la carte ci-dessus."
+
+#: includes/class-gmb-scripts.php:229
+msgid "<strong>Google Maps Conflict Detected:</strong> It appears that a plugin or theme that you are using is including also Google Maps API JavaScript on your website. This means there may be a conflict with the Google Maps Builder plugin. Please <a href=\"%1$s\" target=\"_blank\">dequeue</a> the additional Google Maps JavaScript call to return the plugin to a working state if you notice a problem. "
+msgstr "<strong>Conflit Google Maps détecté :</strong> Il semblerai qu'une extension ou un thème utilise déjà l'API Google Maps sur votre site. Cela veux dire qu'il pourrai y avoir un conflit avec l'extension Google Maps Builder. <a href=\"%1$s\" target=\"_blank\">Désactiver</a> l'appel javascript additionnel à Google Maps pour rétablir l'extension dans son état normal si vous constatez un problème."
+
+#: includes/admin/upgrades/upgrade-functions.php:49
+msgid "Google has updated their Maps API to use the new Google Places ID rather than previous Reference ID. The old method will soon be deprecated and eventually go offline. We are being proactive and would like to update your maps to use the new Places ID. Once you upgrade, your maps should work just fine but remember to make a backup prior to upgrading. If you choose not to upgrade Google will eventually take the old reference ID offline (no date has been given). Please contact WordImpress support via our website if you have any further questions or issues. %sClick here to upgrade your maps to use the new Places ID%s"
+msgstr "Google a mis à jour ces API de cartes pour utiliser les nouveaux ID de Lieux Google, anciennement ID de Référence. L'ancienne méthode va bientôt être dépréciée et éventuellement mise hors ligne. Nous sommes proactifs et souhaitons mettre à jour vos cartes pour utiliser les nouveaux ID de Lieux. Une fois mises à niveau, vos cartes devraient bien fonctionner mais n'oubliez pas en priorité de sauvegarder avant de mettre à niveau. Si vous choisissez de ne pas mettre à niveau, Google peux éventuellement mettre les anciennes ID de Références hors ligne (aucune date annoncée). Veuillez contacter l'aide de WordImpress via notre site si vous avez une question ou un problème. %sCliquez ici pour mettre à niveau vos cartes pour utiliser les nouveaux ID de Lieux%s"
+
+#: includes/admin/class-gmb-admin.php:442
+msgid "Shift Worker"
+msgstr "Travail en 3/8"
+
+#: includes/admin/class-gmb-admin.php:257
+#: includes/admin/class-gmb-settings.php:141
+#: includes/admin/class-gmb-settings.php:151
+#: includes/admin/class-gmb-settings.php:237
+msgid "No"
+msgstr "Non"
+
+#: includes/admin/class-gmb-admin.php:256
+#: includes/admin/class-gmb-settings.php:140
+#: includes/admin/class-gmb-settings.php:150
+#: includes/admin/class-gmb-settings.php:235
+msgid "Yes"
+msgstr "Oui"
+
+#: google-maps-builder.php:161 google-maps-builder.php:173
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on essaye de tricher ou quoi&nbsp;?"
+
+#: includes/admin/class-gmb-admin.php:175
+msgid "Marker Reference"
+msgstr "Référence de marqueur"
+
+#: includes/admin/class-gmb-admin.php:280
+msgid "Airport"
+msgstr "Aéroport"
+
+#: includes/admin/class-gmb-admin.php:332
+msgid "Lawyer"
+msgstr "Avocat"
+
+#: includes/admin/class-gmb-admin.php:301
+msgid "Church"
+msgstr "Église"
+
+#: includes/admin/class-gmb-admin.php:330
+msgid "Jewelry Store"
+msgstr "Bijouterie"
+
+#: includes/admin/class-gmb-admin.php:299
+msgid "Casino"
+msgstr "Casino"
+
+#: includes/admin/class-gmb-admin.php:300
+msgid "Cemetery"
+msgstr "Cimetière"
+
+#: includes/admin/class-gmb-admin.php:306
+msgid "Dentist"
+msgstr "Dentiste"
+
+#: includes/admin/class-gmb-admin.php:328
+msgid "Hospital"
+msgstr "Hôpital"
+
+#: includes/admin/class-gmb-admin.php:298
+msgid "Car Wash"
+msgstr "Lavage de voiture"
+
+#: includes/admin/class-gmb-admin.php:331
+msgid "Laundry"
+msgstr "Laverie"
+
+#: includes/admin/class-gmb-admin.php:233
+msgid "Map Preview"
+msgstr "Aperçu de la carte"
+
+#: includes/admin/class-gmb-admin.php:225
+msgid "Google Map Preview"
+msgstr "Aperçu Google Map"
+
+#: includes/admin/class-gmb-admin.php:293
+msgid "Cafe"
+msgstr "Café"
+
+#: includes/admin/class-gmb-admin.php:297
+msgid "Car Repair"
+msgstr "Garage"
+
+#: includes/admin/class-gmb-admin.php:333
+msgid "Library"
+msgstr "Librairie"
+
+#: includes/admin/class-gmb-admin.php:296
+msgid "Car Rental"
+msgstr "Loueur de voiture"
+
+#: includes/admin/class-gmb-admin.php:292
+msgid "Bus Station"
+msgstr "Station de bus"
+
+#: includes/admin/class-gmb-admin.php:295
+msgid "Car Dealer"
+msgstr "Vendeur automobile"
+
+#: includes/admin/class-gmb-admin.php:170
+msgid "Write a short description for this marker"
+msgstr "Écrivez une description courte pour ce marqueur"
+
+#: includes/admin/class-gmb-admin.php:323
+msgid "Hair Care"
+msgstr "Coiffeur"
+
+#: includes/admin/class-gmb-admin.php:169
+msgid "Marker Description"
+msgstr "Description du marqueur"
+
+#: includes/admin/class-gmb-admin.php:210
+msgid "Marker Data"
+msgstr "Données du marqueur"
+
+#: includes/admin/class-gmb-admin.php:159
+msgid "Remove Marker"
+msgstr "Enlever le marqueur"
+
+#: includes/admin/class-gmb-admin.php:251
+msgid "Show Places?"
+msgstr "Afficher les lieux ?"
+
+#: includes/admin/class-gmb-admin.php:303
+msgid "Clothing Store"
+msgstr "Magasin de vêtements"
+
+#: includes/admin/class-gmb-admin.php:158
+msgid "Add Another Marker"
+msgstr "Ajouter un autre marqueur"
+
+#: includes/admin/class-gmb-admin.php:206
+msgid "Add Marker Image"
+msgstr "Ajouter un image de marqueur"
+
+#: includes/admin/class-gmb-admin.php:282
+msgid "Aquarium"
+msgstr "Aquarium"
+
+#: includes/admin/class-gmb-admin.php:286
+msgid "Bank"
+msgstr "Banque"
+
+#: includes/admin/class-gmb-admin.php:287
+msgid "Bar"
+msgstr "Bar"
+
+#: includes/admin/class-gmb-admin.php:285
+msgid "Bakery"
+msgstr "Boulangerie"
+
+#: includes/admin/class-gmb-admin.php:185
+msgid "Hide Place Details"
+msgstr "Cacher les détails du lieu"
+
+#: includes/admin/class-gmb-admin.php:90
+msgid "Map Shortcode:"
+msgstr "Code court de la carte :"
+
+#: includes/admin/class-gmb-admin.php:315
+msgid "Florist"
+msgstr "Fleuriste"
+
+#: includes/admin/class-gmb-admin.php:283
+msgid "Art Gallery"
+msgstr "Galerie d'art"
+
+#: includes/admin/class-gmb-admin.php:180
+msgid "Marker Place ID"
+msgstr "ID de marqueur de lieu"
+
+#: includes/admin/class-gmb-admin.php:200
+msgid "Marker Image"
+msgstr "Image du marqueur"
+
+#: includes/admin/class-gmb-admin.php:190
+msgid "Marker Latitude"
+msgstr "Latitude du marqueur"
+
+#: includes/admin/class-gmb-admin.php:195
+msgid "Marker Longitude"
+msgstr "Longitude du marqueur"
+
+#: includes/admin/class-gmb-admin.php:157
+msgid "Marker: {#}"
+msgstr "Marqueur : {#}"
+
+#: includes/admin/class-gmb-admin.php:152
+msgid "Existing Markers"
+msgstr "Marqueurs existants"
+
+#: includes/admin/class-gmb-admin.php:155
+msgid "Toggle Marker Groups"
+msgstr "Ouvrir/fermer le groupe de marqueurs"
+
+#: includes/admin/class-gmb-admin.php:305
+msgid "Courthouse"
+msgstr "Palais de justice"
+
+#: includes/admin/class-gmb-admin.php:147
+msgid "Create Marker"
+msgstr "Créer un marqueur"
+
+#: includes/admin/class-gmb-admin.php:140
+msgid "Map Markers"
+msgstr "Marqueurs de carte"
+
+#: includes/admin/class-gmb-admin.php:275
+msgid "Select which type of places you would like to display on this map."
+msgstr "Sélectionnez quels type de lieux vous voudriez voir s'afficher sur cette carte."
+
+#: includes/admin/class-gmb-admin.php:326
+msgid "Hindu Temple"
+msgstr "Temple Indou"
+
+#: includes/admin/class-gmb-admin.php:164
+msgid "Marker Title"
+msgstr "Titre du marqueur"
+
+#: includes/admin/class-gmb-admin.php:274
+msgid "Place Types"
+msgstr "Types de lieu"
+
+#: includes/admin/class-gmb-admin.php:311
+msgid "Embassy"
+msgstr "Ambassade"
+
+#: includes/admin/class-gmb-admin.php:329
+msgid "Insurance Agency"
+msgstr "Assurance"
+
+#: includes/admin/class-gmb-admin.php:309
+msgid "Electrician"
+msgstr "Électricien"
+
+#: includes/admin/class-gmb-admin.php:313
+msgid "Finance"
+msgstr "Finance"
+
+#: includes/admin/class-gmb-admin.php:317
+msgid "Funeral Home"
+msgstr "Funérarium"
+
+#: includes/admin/class-gmb-admin.php:87
+msgid "Open Map Builder"
+msgstr "Ouvrir Map Builder"
+
+#: includes/admin/class-gmb-admin.php:339
+msgid "Meal Takeaway"
+msgstr "Repas à emporter"
+
+#: includes/admin/class-gmb-admin.php:340
+msgid "Mosque"
+msgstr "Mosquée"
+
+#: includes/admin/class-gmb-admin.php:341
+msgid "Movie Rental"
+msgstr "Location de films"
+
+#: includes/admin/class-gmb-admin.php:338
+msgid "Meal Delivery"
+msgstr "Livraison de repas"
+
+#: includes/admin/class-gmb-admin.php:337
+msgid "Lodging"
+msgstr "Hébergement"
+
+#: includes/admin/class-gmb-admin.php:336
+msgid "Locksmith"
+msgstr "Serrurier"
+
+#: includes/admin/class-gmb-admin.php:335
+msgid "Local Government Office"
+msgstr "Administration"
+
+#: includes/admin/class-gmb-admin.php:334
+msgid "Liquor Store"
+msgstr "Caviste"
+
+#: includes/admin/class-gmb-admin.php:325
+msgid "Health"
+msgstr "Santé"
+
+#: includes/admin/class-gmb-admin.php:324
+msgid "Hardware Store"
+msgstr "Quincaillerie"
+
+#: includes/admin/class-gmb-admin.php:321
+msgid "Grocery or Supermarket"
+msgstr "Supermarché"
+
+#: includes/admin/class-gmb-admin.php:322
+msgid "Gym"
+msgstr "Salle de gym"
+
+#: includes/admin/class-gmb-admin.php:318
+msgid "Furniture_store"
+msgstr "Magasin de meubles"
+
+#: includes/admin/class-gmb-admin.php:319
+msgid "Gas Station"
+msgstr "Station essence"
+
+#: includes/admin/class-gmb-admin.php:316
+msgid "Food"
+msgstr "Nourriture"
+
+#: includes/admin/class-gmb-admin.php:314
+msgid "Fire Station"
+msgstr "Pompier"
+
+#: includes/admin/class-gmb-admin.php:312
+msgid "Establishment"
+msgstr "Etablissement"
+
+#: includes/admin/class-gmb-admin.php:310
+msgid "Electronics Store"
+msgstr "Magasin d'électronique"
+
+#: includes/admin/class-gmb-admin.php:308
+msgid "Doctor"
+msgstr "Médecin"
+
+#: includes/admin/class-gmb-admin.php:307
+msgid "Department Store"
+msgstr "Grand magasin"
+
+#: includes/admin/class-gmb-admin.php:304
+msgid "Convenience Store"
+msgstr "Dépanneur"
+
+#: includes/admin/class-gmb-admin.php:302
+msgid "City Hall"
+msgstr "Mairie"
+
+#: includes/admin/class-gmb-admin.php:294
+msgid "Campground"
+msgstr "Terrain de camping"
+
+#: includes/admin/class-gmb-admin.php:291
+msgid "Bowling Alley"
+msgstr "Bowling"
+
+#: includes/admin/class-gmb-admin.php:289
+msgid "Bicycle Store"
+msgstr "Cycles"
+
+#: includes/admin/class-gmb-admin.php:290
+msgid "Book Store"
+msgstr "Librairie"
+
+#: includes/admin/class-gmb-admin.php:288
+msgid "Beauty Salon"
+msgstr "Salon de beauté"
+
+#: includes/admin/class-gmb-admin.php:284
+msgid "ATM"
+msgstr "Distributeur"
+
+#: includes/admin/class-gmb-admin.php:281
+msgid "Amusement Park"
+msgstr "Parc d'attractions"
+
+#: includes/admin/class-gmb-admin.php:279
+msgid "Accounting"
+msgstr "Comptable"
+
+#: includes/admin/class-gmb-admin.php:265
+msgid "Defines the distance (in meters) within which to return Place results. The maximum allowed radius is 50,000 meters."
+msgstr "Définissez le rayon (en mètres) dans lequel retourner des résultats de lieux. Le plus grand rayon autorisé est de 50000 mètres."
+
+#: includes/admin/class-gmb-admin.php:264
+msgid "Search Radius"
+msgstr "Rayon de recherche"
+
+#: includes/admin/class-gmb-admin.php:252
+msgid "Display establishments, prominent points of interest, geographic locations, and more."
+msgstr "Affichez les établissements, les points d&rsquo;intérêt, les lieux géographiques et plus encore."
+
+#: includes/admin/class-gmb-admin.php:242
+msgid "Google Places"
+msgstr "Lieux Google"
+
+#: includes/admin/class-gmb-admin.php:216
+msgid "Marker Label Data"
+msgstr "Libellé du marqueur"
+
+#: includes/admin/class-gmb-admin.php:155
+msgid "Map marker data is contained within the repeatable fields below. You may add or update marker data here or directly on the map."
+msgstr "Les données géographiques des marqueurs sont contenus dans les champs ci-dessous. Vous pouvez ajouter ou mettre à jour ces données ici ou directement sur la carte."
+
+#: includes/admin/class-gmb-admin.php:327
+msgid "Home Goods Store"
+msgstr "Magasin d&rsquo;articles de maison"
+
+#: includes/admin/class-gmb-admin.php:320
+msgid "General Contractor"
+msgstr "Entrepreneur"
