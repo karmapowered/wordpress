@@ -16,3 +16,5 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+/project WP.sublime-workspace
+/project WP.sublime-project
